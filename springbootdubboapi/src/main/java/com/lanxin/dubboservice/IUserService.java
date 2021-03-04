@@ -2,5 +2,5 @@ package com.lanxin.dubboservice;
 
 public interface IUserService {
 
-	public String say(String name2);
+	public String say(String name1);
 }
